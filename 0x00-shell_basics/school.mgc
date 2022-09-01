@@ -1,4 +1,2 @@
 0 string SCHOOL School data
 !:mime School
-# compile with `file -c -m school.mgc`
-# use with `file -m school.mgc textfile`
